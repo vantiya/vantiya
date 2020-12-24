@@ -41,7 +41,6 @@
 [<code>
 <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
 </code>](https://sass-lang.com/)
-[<code>
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>](https://wordpress.org)
 [<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>](https://laravel.com/)
 [<code><img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
