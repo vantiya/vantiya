@@ -1,5 +1,16 @@
 ### Hey there, I'm Parvez Vantiya 👋
 <br />
+<a href="https://twitter.com/parvezvantiya">
+  <img align="left" alt="Parvez's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/parvezvantiya">
+  <img align="left" alt="Parvez's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/vantiya">
+  <img align="left" alt="Parvez's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
+
 <!--
 **vantiya/vantiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,18 +23,9 @@
 - 😄 Pronouns: Parvez
 
 <br />
-<br />
 
 ### Connect with me:
-<a href="https://twitter.com/parvezvantiya">
-  <img align="left" alt="Parvez's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/parvezvantiya">
-  <img align="left" alt="Parvez's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/vantiya">
-  <img align="left" alt="Parvez's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+
 
 <br />
 <br />
