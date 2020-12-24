@@ -5,13 +5,24 @@
 -->
 
 - 🔭 I’m currently working on BloC, Flutter Architecture
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on people with similar interest
+- 🌱 I’m currently learning Flutter & Spanish
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about PHP and PHP based Frameworks & CMS.
-- 📫 How to reach me: [Twitter - @parvezvantiya](https://twitter.com/parvezvantiya)
+- 📫 How to reach me: [Twitter - @parvezvantiya](https://twitter.com/parvezvantiya) [LinkedIn](www.linkedin.com/in/parvezvantiya)
 - 😄 Pronouns: Parvez
 
+<br />
+<br />
+
+<a href="https://twitter.com/parvezvantiya">
+  <img align="left" alt="Parvez's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/parvezvantiya">
+  <img align="left" alt="Parvez's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/vantiya">
+  <img align="left" alt="Parvez's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 <br />
 <br />
