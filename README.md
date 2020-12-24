@@ -9,11 +9,14 @@
 <a href="https://github.com/vantiya">
   <img align="left" alt="Parvez's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br />
+
 
 <!--
 **vantiya/vantiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br />
+<br />
+
 
 - 🔭 I’m currently working on BloC, Flutter Architecture
 - 🌱 I’m currently learning Flutter & Spanish
