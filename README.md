@@ -1,5 +1,5 @@
 ### Hey there, I'm Parvez Vantiya 👋
-
+<br />
 <!--
 **vantiya/vantiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -9,9 +9,12 @@
 - 👯 I’m looking to collaborate on people with similar interest
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about PHP and PHP based Frameworks & CMS.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [Twitter - @parvezvantiya](https://twitter.com/parvezvantiya)
+- 😄 Pronouns: Parvez
+
+
+<br />
+<br />
 
 **Languages and Tools:**  
 
