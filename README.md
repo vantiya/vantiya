@@ -1,4 +1,4 @@
-### Hey there, I'm Parvez Vantiya <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hey there, I'm Parvez Vantiya 👋
 <br />
 <a href="https://twitter.com/parvezvantiya">
   <img align="left" alt="Parvez's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
