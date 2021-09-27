@@ -18,8 +18,8 @@
 <br />
 
 
-- 🔭 I’m currently working on BloC, Flutter Architecture
-- 🌱 I’m currently learning Flutter & Spanish
+- 🔭 I’m currently working on WordPress Plugins.
+- 🌱 I’m currently learning Node, React & Spanish
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about PHP and PHP based Frameworks & CMS.
 - 📫 How to reach me: [Twitter - @parvezvantiya](https://twitter.com/parvezvantiya) [LinkedIn](www.linkedin.com/in/parvezvantiya)
