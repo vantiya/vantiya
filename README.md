@@ -18,17 +18,16 @@
 <br />
 
 
-- 🔭 I’m currently working on WordPress Plugins.
-- 🌱 I’m currently learning Node, React & Spanish
+- 🔭 I’m currently working on WordPress Plugins, Node & Flutter.
+- 🌱 I’m currently learning React & Español
 - 🤔 I’m looking for help with Flutter
-- 💬 Ask me about PHP and PHP based Frameworks & CMS.
 - 📫 How to reach me: [Twitter - @parvezvantiya](https://twitter.com/parvezvantiya) [LinkedIn](www.linkedin.com/in/parvezvantiya)
-- 😄 Pronouns: Parvez
+- 😄 Pronouns: He/His
 
 <br />
 
 **Languages and Tools:**  
-
+<a href="#" class="icon-mysql"></a> MySql
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
