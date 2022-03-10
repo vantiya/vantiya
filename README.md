@@ -18,8 +18,8 @@
 <br />
 
 
-- 🔭 I’m currently working on WordPress Plugins, Node & Flutter.
-- 🌱 I’m currently learning React & Español
+- 🔭 I’m currently working on WordPress Plugins, NodeJS & Flutter.
+- 🌱 I’m currently learning Web3 & Español
 - 🤔 I’m looking for help with Flutter
 - 📫 How to reach me: [Twitter - @parvezvantiya](https://twitter.com/parvezvantiya) [LinkedIn](www.linkedin.com/in/parvezvantiya)
 - 😄 Pronouns: He/His
